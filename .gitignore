@@ -1,0 +1,37 @@
+# PyCharm IDE
+.idea/
+
+# VS Code (optional)
+.vscode/
+
+# Editor swap files
+*.swp
+*.swo
+
+# Environment files
+.env
+
+# Python-generated files
+backend/__pycache__/
+backend/*.py[oc]
+backend/build/
+backend/dist/
+backend/wheels/
+backend/*.egg-info
+
+# Virtual environments
+backend/.venv
+
+# Environment files
+backend/.env
+
+
+# React / Node.js
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.cache/
+frontend/.next/
+frontend/.eslintcache
+frontend/yarn-error.log
+frontend/npm-debug.log
