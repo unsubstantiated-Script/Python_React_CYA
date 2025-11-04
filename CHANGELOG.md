@@ -7,6 +7,7 @@ React/Python Choose Your Adventure (CYA) Game
 - ENV setup
 - DB Config
 - Models Job and Story
+- Schemas Job and Story
 
 
 ## 0.1.0 
